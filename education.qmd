@@ -1,0 +1,25 @@
+---
+title: Education and Outreach
+---
+
+## Course Catalog
+
+* CEE 351 Geotechnical Engineering
+* CEE 452/598 Foundations
+* CEE 550 Soil Behavior
+* CEE 551 Advanced Geotechnical Testing
+* CEE 552 Soil Improvement
+* CEE 553 Advanced Soil Mechanics
+* CEE 554 Shear Strength and Slop Stability
+* CEE 555 Advanced Foundations
+* CEE 556 Seepage and Earth Dams
+* CEE 557 Landfill and Waste Containment System Design
+* CEE 558 Unsaturated Soil Mechanics
+* CEE 559 Geotechnical Earthquake Engineering
+* CEE 598 Geotechnical Aspects of Pavements
+* CEE 598 Biogeotechnical Engineering
+* CEE 598 Connecting Research to the Broader Community
+* CEE 494/598 Bio-inspired Design
+* CEE 494/598 Engineering Geology 
+* CEE 494/598 Earth Structures (from non-geotech majors) 
+

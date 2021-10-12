@@ -1,0 +1,40 @@
+project:
+  type: site
+  output-dir: docs
+
+site:
+  title: "Geotech Group at ASU"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - people.qmd
+      - research.qmd
+      - education.qmd
+      - resources.qmd
+      - organizations.qmd
+      - news.qmd
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/JulianTao/geoasu
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - people.qmd
+      - research.qmd
+      - education.qmd
+      - resources.qmd
+      - organizations.qmd
+      - news.qmd
+      - about.qmd
+format:
+  html:
+    theme: 
+      - asu.scss
+      - litera
+    max-width: 2500px
+    # margin-left: 0
+    highlight-style: github
+    toc: true
