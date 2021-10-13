@@ -15,4 +15,4 @@ roster %>%
   kable_styling()
 ```
 
-[Download]("./data/ASU Geotech Roster.csv")
+[Download](https://raw.githubusercontent.com/JulianTao/geoasu/main/data/ASU%20Geotech%20Roster.csv)
