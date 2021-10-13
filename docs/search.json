@@ -1,52 +1,31 @@
 [
   {
-    "objectID": "organizations.html#asu-chapters",
-    "href": "organizations.html#asu-chapters",
-    "title": "Organizations",
-    "section": "ASU Chapters",
-    "text": "ASU Geo-Institute Graduate Student Chapter\n\nWebsite\nInstagram: @geo_asu\n\nASU ASCE Student Chapter\n\nWebsite\nFacebook: @ASUASCE\nInstagram: @asceasu"
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "People",
+    "section": "Faculty",
+    "text": "Edward Kavazanjian\nClaudia Zapata\nLeon van Paassen\nJulian Tao\nHamed Khodadadi Tirkolaei\nNasser Hamdan\nJean Larson\nChris Lawrence\nJafar Razmi\nEmmanuel Salifu\nSandra Houston\nWilliam (Bill) Houston"
   },
   {
-    "objectID": "organizations.html#arizona-sections",
-    "href": "organizations.html#arizona-sections",
-    "title": "Organizations",
-    "section": "Arizona Sections",
-    "text": "Arizona Geo-Institute Chapter\nArizona ASCE Section\nArizona AEG Section"
+    "objectID": "people.html#postdoctoral-researcher",
+    "href": "people.html#postdoctoral-researcher",
+    "title": "People",
+    "section": "Postdoctoral researcher",
+    "text": "Sichuan Huang"
   },
   {
-    "objectID": "organizations.html#national-organizations",
-    "href": "organizations.html#national-organizations",
-    "title": "Organizations",
-    "section": "National Organizations",
-    "text": "National Geo-Institute\nNational ASCE\nASU Graduate and Professional Student Association"
+    "objectID": "people.html#visiting-scholars",
+    "href": "people.html#visiting-scholars",
+    "title": "People",
+    "section": "Visiting Scholars",
+    "text": "Daehyun Kim"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "education.html#course-catalog",
-    "href": "education.html#course-catalog",
-    "title": "Education and Outreach",
-    "section": "Course Catalog",
-    "text": "CEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
-  },
-  {
-    "objectID": "roster.html",
-    "href": "roster.html",
-    "title": "Roster",
-    "section": "",
-    "text": "Insert the table"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ASU Geotechnical Engineering",
-    "section": "",
-    "text": "People\n\n\nResearch\n\n\nEducation and Outreach\n\n\nResources\n\n\nOrganizations\n\n\nNews\n\n\nAbout"
+    "objectID": "people.html#roster",
+    "href": "people.html#roster",
+    "title": "People",
+    "section": "Roster",
+    "text": ""
   },
   {
     "objectID": "resources.html#general-resources",
@@ -81,28 +60,42 @@
     "href": "resources.html#alumni-resources",
     "title": "Resources",
     "section": "Alumni Resources",
-    "text": "Friends of Civil and Environmental Engineering"
+    "text": "ASU Alumni\nASU Alumni Engineering Chapter\nFriends of Civil and Environmental Engineering"
   },
   {
-    "objectID": "news.html#academic-calendar",
-    "href": "news.html#academic-calendar",
-    "title": "News and Events",
-    "section": "Academic Calendar",
-    "text": ""
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ASU Geotechnical Engineering",
+    "section": "",
+    "text": "People\n\n\nResearch\n\n\nEducation and Outreach\n\n\nResources\n\n\nOrganizations\n\n\nNews\n\n\nAbout"
   },
   {
-    "objectID": "news.html#news",
-    "href": "news.html#news",
-    "title": "News and Events",
-    "section": "News",
-    "text": "Some News."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Geotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure."
   },
   {
-    "objectID": "news.html#events",
-    "href": "news.html#events",
-    "title": "News and Events",
-    "section": "Events",
-    "text": "Some events"
+    "objectID": "organizations.html#asu-chapters",
+    "href": "organizations.html#asu-chapters",
+    "title": "Organizations",
+    "section": "ASU Chapters",
+    "text": "ASU Geo-Institute Graduate Student Chapter\n\nWebsite\nInstagram: @geo_asu\n\nASU ASCE Student Chapter\n\nWebsite\nFacebook: @ASUASCE\nInstagram: @asceasu"
+  },
+  {
+    "objectID": "organizations.html#arizona-sections",
+    "href": "organizations.html#arizona-sections",
+    "title": "Organizations",
+    "section": "Arizona Sections",
+    "text": "Arizona Geo-Institute Chapter\nArizona ASCE Section\nArizona AEG Section"
+  },
+  {
+    "objectID": "organizations.html#national-organizations",
+    "href": "organizations.html#national-organizations",
+    "title": "Organizations",
+    "section": "National Organizations",
+    "text": "National Geo-Institute\nNational ASCE\nASU Graduate and Professional Student Association"
   },
   {
     "objectID": "research.html#bio-mediated-geotechnics",
@@ -154,45 +147,38 @@
     "text": "<++>"
   },
   {
-    "objectID": "people.html#faculty",
-    "href": "people.html#faculty",
-    "title": "People",
-    "section": "Faculty",
-    "text": "Edward Kavazanjian\nClaudia Zapata\nLeon van Paassen\nJulian Tao\nHamed Khodadadi Tirkolaei\nNasser Hamdan\nJean Larson\nChris Lawrence\nJafar Razmi\nEmmanuel Salifu\nSandra Houston\nWilliam (Bill) Houston"
+    "objectID": "education.html#course-catalog",
+    "href": "education.html#course-catalog",
+    "title": "Education and Outreach",
+    "section": "Course Catalog",
+    "text": "CEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
   },
   {
-    "objectID": "people.html#postdoctoral-researcher",
-    "href": "people.html#postdoctoral-researcher",
-    "title": "People",
-    "section": "Postdoctoral researcher",
-    "text": "Sichuan Huang"
-  },
-  {
-    "objectID": "people.html#visiting-scholars",
-    "href": "people.html#visiting-scholars",
-    "title": "People",
-    "section": "Visiting Scholars",
-    "text": "Daehyun Kim"
-  },
-  {
-    "objectID": "people.html#graduate-students",
-    "href": "people.html#graduate-students",
-    "title": "People",
-    "section": "Graduate Students",
+    "objectID": "news.html#academic-calendar",
+    "href": "news.html#academic-calendar",
+    "title": "News and Events",
+    "section": "Academic Calendar",
     "text": ""
   },
   {
-    "objectID": "people.html#undergraduate-students",
-    "href": "people.html#undergraduate-students",
-    "title": "People",
-    "section": "Undergraduate Students",
-    "text": ""
+    "objectID": "news.html#news",
+    "href": "news.html#news",
+    "title": "News and Events",
+    "section": "News",
+    "text": "Some News."
   },
   {
-    "objectID": "people.html#roster",
-    "href": "people.html#roster",
-    "title": "People",
-    "section": "Roster",
-    "text": ""
+    "objectID": "news.html#events",
+    "href": "news.html#events",
+    "title": "News and Events",
+    "section": "Events",
+    "text": "Some events"
+  },
+  {
+    "objectID": "roster.html",
+    "href": "roster.html",
+    "title": "Roster",
+    "section": "",
+    "text": "First Name \n    Last Name \n    Campus Email \n  \n \n\n  \n    Fahad \n    Aldawsari \n    fmaldaws@asu.edu \n  \n  \n    Sooraj Kumar \n    Ambadi Omanakuttan Nair \n    sambadio@asu.edu \n  \n  \n    Leslie \n    Bautista \n    Leslie.Bautista@asu.edu \n  \n  \n    Sean \n    Carpenter \n    srcarpe4@asu.edu \n  \n  \n    Edward \n    Chavez \n    erchave2@asu.edu \n  \n  \n    Katherine \n    Currier \n    kmcurrie@asu.edu \n  \n  \n    Michael \n    Edgar \n    mgedgar@asu.edu \n  \n  \n    Michael \n    Edgar \n    Michael.Edgar@asu.edu \n  \n  \n    Farideh \n    Ehsasi \n    fehsasi@asu.edu \n  \n  \n    Maya \n    Elliott \n    meellio4@asu.edu \n  \n  \n    Ranjiv \n    Gupta \n    ranjivg@gmail.com \n  \n  \n    Caitlyn \n    Hall \n    cahall13@asu.edu \n  \n  \n    Nasser \n    Hamdan \n    nasser.hamdan@asu.edu \n  \n  \n    Sandra \n    Houston \n    shous@asu.edu \n  \n  \n    Sichuan \n    Huang \n    shuang64@asu.edu \n  \n  \n    Shivangi \n    Jain \n    sjain89@asu.edu \n  \n  \n    Jiwon \n    Jang \n    jjang27@asu.edu \n  \n  \n    Deepesh \n    Karmacharya \n    dkarmach@asu.edu \n  \n  \n    Edward \n    Kavazanjian \n    ekavazan@asu.edu \n  \n  \n    Hamed \n    Khodadaditirkolaei \n    hkhodada@asu.edu \n  \n  \n    Bhavishya Reddy \n    Konatham \n    bkonatha@asu.edu \n  \n  \n    Patrick \n    Kwon \n    pskwon@asu.edu \n  \n  \n    Vinaykrishnan \n    Lakshminarayanan \n    vlakshm8@asu.edu \n  \n  \n    Chris \n    Lawrence \n    canadian@asu.edu \n  \n  \n    Xiwei \n    Li \n    xiweili@asu.edu \n  \n  \n    Jose \n    Mauleon Calderon \n    jmauleon@asu.edu \n  \n  \n    Bryce \n    Meis \n    bmeis@asu.edu \n  \n  \n    Marilyn \n    Mendoza \n    mymendo2@asu.edu \n  \n  \n    Mohammad \n    Mosawi \n    mmosawi@asu.edu \n  \n  \n    Alejandro \n    Munoz \n    amunoz41@asu.edu \n  \n  \n    Austin \n    Olaiz \n    aholaiz@asu.edu \n  \n  \n    Jerryck \n    Ordyna \n    jordyna@asu.edu \n  \n  \n    Alexander \n    Owen \n    awowen@asu.edu \n  \n  \n    Rayanna \n    Pearson \n    rbpearso@asu.edu \n  \n  \n    Rupa \n    Ragavan \n    rragavan@asu.edu \n  \n  \n    Brian \n    Rudolph \n    bbrudolp@asu.edu \n  \n  \n    mohammed \n    sabek \n    msabek@asu.edu \n  \n  \n    Sarina \n    Shahhosseini \n    sshahho1@asu.edu \n  \n  \n    Melissa \n    Stine \n    mastine@asu.edu \n  \n  \n    Yong \n    Tang \n    ytang116@asu.edu \n  \n  \n    Junliang \n    Tao \n    jtao25@asu.edu \n  \n  \n    Daniel \n    Torres \n    detorre5@asu.edu \n  \n  \n    Leon \n    van Paassen \n    lvanpaas@asu.edu \n  \n  \n    Chaitanya \n    Veeramachaneni \n    cveerama@asu.edu \n  \n  \n    Miriam \n    Woolley \n    mawoolle@asu.edu \n  \n  \n    Xi \n    Yu \n    xiyu1@asu.edu \n  \n  \n    Claudia \n    Zapata \n    czapata@asu.edu \n  \n  \n    Yi \n    Zhong \n    yzhong53@asu.edu \n  \n\n\n\n\n\nDownload"
   }
 ]

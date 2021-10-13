@@ -2,4 +2,17 @@
 title: Roster
 ---
 
-Insert the table
+```{r}
+#| echo: false
+#| warning: false
+
+library(kableExtra)
+library(tidyverse)
+dt  <- read_csv("./data/ASU Geotech Roster.csv")
+roster  <- dt[order(dt$'Last Name'),]
+roster %>%
+  kbl() %>%
+  kable_styling()
+```
+
+[Download]("./data/ASU Geotech Roster.csv")

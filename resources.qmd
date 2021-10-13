@@ -62,4 +62,6 @@ title: Resources
 
 ## Alumni Resources
 
+* [ASU Alumni](https://alumni.asu.edu/) 
+* [ASU Alumni Engineering Chapter](https://alumni.asu.edu/chapters/ira-fulton-schools-engineering-chapter)
 * [Friends of Civil and Environmental Engineering](https://ssebe.engineering.asu.edu/foce2/) 

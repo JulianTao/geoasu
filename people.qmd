@@ -23,8 +23,6 @@ title: People
 ## Visiting Scholars
    * Daehyun Kim 
 
-## Graduate Students
+## [Roster](roster.qmd)
 
-## Undergraduate Students
 
-## Roster
