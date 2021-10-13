@@ -4,20 +4,56 @@ title: People
 
 ## Faculty
 
-   * Edward Kavazanjian
-   * Claudia Zapata
-   * Leon van Paassen
-   * Julian Tao
-   * Hamed Khodadadi Tirkolaei
-   * Nasser Hamdan
-   * Jean Larson
-   * Chris Lawrence
-   * Jafar Razmi
-   * Emmanuel Salifu
-   * Sandra Houston
-   * William (Bill) Houston
+### Core Faculty
 
-## Postdoctoral researcher
+::: {layout-ncol=3 layout-valign="bottom"}
+
+![Edward Kavazanjan](./media/Ed.jpg)
+
+![Claudia Zapata](./media/Claudia.jpg)
+
+![Leon van Paassen](./media/Leon.jpg)
+
+![Julian Tao](./media/Julian.jpg)
+
+![Hamed Khodadadi Tirkolaei](./media/Hamed.png)
+
+:::
+
+## Research Professors
+
+::: {layout-ncol=3 layout-valign="bottom"}
+
+![Nasser Hamdan](./media/Nasser.jpg)
+
+![Jean Larson](./media/Jean.jpg)
+
+:::
+
+## Lecturers
+
+::: {layout-ncol=3 layout-valign="bottom"}
+
+![Chris Lawrence](./media/Chris.jpg)
+
+![Jafar Razmi](./media/Jafar.png)
+
+:::
+
+## Faculty Emertus
+
+::: {layout-ncol=3 layout-valign="bottom"}
+
+![Sandra Houston](./media/Sandra.jpg)
+
+![William (Bill) Houston](./media/sundevil.png)
+
+:::
+
+## Presidential Postdoctoral Fellow
+   * Emmanuel Salifu
+
+## Postdoctoral Researchers
    * Sichuan Huang
 
 ## Visiting Scholars
