@@ -1,14 +1,6 @@
 ---
 title: People
-execute:
-  warning: false
-  error: false
-  echo: false
 ---
-
-```{r}
-library(icons)
-```
 
 ## Faculty
 
@@ -18,21 +10,18 @@ library(icons)
 
 ![](./media/Ed.jpg)
 
-**[Edward Kavazanjian, Jr.](https://isearch.asu.edu/profile/742158)**\
+**Edward Kavazanjian, Jr.**\
 Ph.D., P.E., D.GE, NAE\
 Regents Professor, Director of CBBG\
 **Research Interests:** Biogeotechnical engineering, ground improvement, geotechnical earthquake engineering, waste containment system design, mechanical properties of municipal solid waste\
-**Teaching:** CEE 552, CEE 557, CEE 559\
-`r icons::fontawesome$envelope` <Edward.Kavazanjian@asu.edu>\
-`r icons::fontawesome$phone` 480-727-8566\
-`r icons::fontawesome$building` GWC 112B
+**Teaching:** CEE 552, CEE 557, CEE 559
 :::
 
 ::: {layout="[[30, 70]]"}
 
 ![](./media/Claudia.jpg)
 
-**[Claudia Zapata](https://isearch.asu.edu/profile/27053)**, Ph.D., P.E.\
+**Claudia Zapata**, Ph.D., P.E.\
 Associate Professor, Deputy Director of CBBG\
 **Research Interests:** Geotechnical engineering, environmental effects in pavement design\
 **Teaching:** CEE 452, CEE 553, CEE 554, CEE 598
@@ -42,7 +31,7 @@ Associate Professor, Deputy Director of CBBG\
 
 ![](./media/Leon.jpg)
 
-**[Leon A. van Paassen](https://isearch.asu.edu/profile/3002885)**, Ph.D.\
+**Leon A. van Paassen**, Ph.D.\
 Associate Professor\
 **Research Interests:** Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\
 **Teaching:** CEE 351, CEE 494, CEE 598
@@ -52,7 +41,7 @@ Associate Professor\
 
 ![](./media/Julian.jpg)
 
-**[Julian Tao](https://isearch.asu.edu/profile/3333500)**, Ph.D.\
+**Julian Tao**, Ph.D.\
 Associate Professor\
 **Research Interests:** Bioinspired burrowing mechanisms, bioinspired geosystems, smart and sustainable geosystems, soil behavior\
 **Teaching:** CEE 452, CEE 550, CEE 494/598
@@ -62,7 +51,7 @@ Associate Professor\
 
 ![](./media/Hamed.png)
 
-**[Hamed Khodadadi Tirkolaei](https://isearch.asu.edu/profile/2623100)**, Ph.D.\
+**Hamed Khodadadi Tirkolaei**, Ph.D.\
 Assistant Professor\
 **Research Interests:** Sustainable Geotechnics, Biogeotechnical Engineering, Ground Improvement\
 **Teaching:** CEE 351, CEE 554
@@ -76,7 +65,7 @@ Assistant Professor\
 
 ![](./media/Nasser.jpg)
 
-**[Nasser Hamdan](https://isearch.asu.edu/profile/9649)**, Ph.D.\
+**Nasser Hamdan**, Ph.D.\
 Assistant Research Professor\
 Director of Industrial Collaboration, CBBG
 **Research Interests:** Biogeotechnical engineering for ground improvement, Biogeochemical processes, Biopolymers, Mineral precipitation in soils, Geomicrobiology\
@@ -87,7 +76,7 @@ Director of Industrial Collaboration, CBBG
 
 ![](./media/Jean.jpg)
 
-**[Jean Larson](https://isearch.asu.edu/profile/287853)**, Ph.D.\
+**Jean Larson**, Ph.D.\
 Assistant Research Professor\
 Education Director, CBBG
 **Research Interests:** Engineering Education\
@@ -98,7 +87,7 @@ Education Director, CBBG
 
 ![](./media/Jafar.png)
 
-**[Jafar Razmi](https://isearch.asu.edu/profile/3497830)**, Ph.D.\
+**Jafar Razmi**, Ph.D.\
 Research Professor\
 **Research Interests:** Material behavior, infrastructural design and behavior under transportation, environmental, and other dynamic loads in geotechnical engineering.\
 **Teaching:** CEE 555
@@ -110,9 +99,8 @@ Research Professor\
 
 ![](./media/Chris.jpg)
 
-**[Chris Lawrence](https://isearch.asu.edu/profile/20845)**, Ph.D.\
+**Chris Lawrence**, Ph.D.\
 Lecturer Senior\
-**Research Interests:**Vector mechanics, mastery based and collaborative learning, geotechnical engineering, unsaturated soil mechanics, advanced soil testing systems
 **Teaching:** CEE 494/598
 :::
 

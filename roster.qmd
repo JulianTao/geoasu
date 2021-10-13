@@ -8,11 +8,13 @@ title: Roster
 
 library(kableExtra)
 library(tidyverse)
+library(DT)
 dt  <- read_csv("./data/ASU Geotech Roster.csv")
 roster  <- dt[order(dt$'Last Name'),]
 roster %>%
-  kbl() %>%
-  kable_styling()
+  datatable(extensions = 'Buttons',
+            options = list(dom = 'Bfrtip',
+                           buttons = c('copy', 'csv', 'excel', 'pdf'),
+                           iDisplayLength = 100))
 ```
 
-[Download](https://raw.githubusercontent.com/JulianTao/geoasu/main/data/ASU%20Geotech%20Roster.csv)

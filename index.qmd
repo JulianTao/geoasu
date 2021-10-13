@@ -1,5 +1,5 @@
 ---
-title: ASU Geotechnical Engineering
+title: Welcome
 ---
 
 # People
@@ -21,3 +21,4 @@ title: ASU Geotechnical Engineering
 
 
 # About
+
