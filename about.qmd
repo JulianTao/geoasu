@@ -13,3 +13,14 @@ ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechni
 * ASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.
 
 * The work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure. 
+
+## Contact us
+
+```{r}
+#| echo: false
+#| fig.height: 3
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-111.93048, lat=33.42081, popup="Geo@ASU")
+```

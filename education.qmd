@@ -23,3 +23,6 @@ title: Education and Outreach
 * CEE 494/598 Engineering Geology 
 * CEE 494/598 Earth Structures (from non-geotech majors) 
 
+## Outreach
+
+<++>

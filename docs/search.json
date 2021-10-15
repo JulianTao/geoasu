@@ -21,11 +21,11 @@
     "text": "National Geo-Institute\nNational ASCE\nASU Graduate and Professional Student Association"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#contact-us",
+    "href": "about.html#contact-us",
     "title": "About",
-    "section": "",
-    "text": "Geotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure."
+    "section": "Contact us",
+    "text": ""
   },
   {
     "objectID": "accordions.html",
@@ -40,6 +40,13 @@
     "title": "Education and Outreach",
     "section": "Course Catalog",
     "text": "CEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
+  },
+  {
+    "objectID": "education.html#outreach",
+    "href": "education.html#outreach",
+    "title": "Education and Outreach",
+    "section": "Outreach",
+    "text": "<++>"
   },
   {
     "objectID": "roster.html",
@@ -102,14 +109,14 @@
     "href": "news.html#news",
     "title": "News and Events",
     "section": "News",
-    "text": "Some News."
+    "text": "<++>"
   },
   {
     "objectID": "news.html#events",
     "href": "news.html#events",
     "title": "News and Events",
     "section": "Events",
-    "text": "Some events"
+    "text": "<++>"
   },
   {
     "objectID": "research.html#bio-mediated-geotechnics",
@@ -165,7 +172,7 @@
     "href": "people.html#faculty",
     "title": "People",
     "section": "Faculty",
-    "text": "Core Faculty\n\n\n\n\n\n\nEdward Kavazanjian, Jr.\nPh.D., P.E., D.GE, NAE\nRegents Professor, Director of CBBG\nResearch: Biogeotechnical engineering, ground improvement, geotechnical earthquake engineering, waste containment system design, mechanical properties of municipal solid waste\nTeaching: CEE 552, CEE 557, CEE 559\nEdward.Kavazanjian@asu.edu\n480-727-8566, GWC 112B\n\n\n\n\n\n\n\n\n\nClaudia Zapata, Ph.D., P.E.\nAssociate Professor, Deputy Director of CBBG\nResearch: Geotechnical engineering, environmental effects in pavement design\nTeaching: CEE 452, CEE 553, CEE 554, CEE 598\nClaudia.Zapata@asu.edu\n480-727-8514, GWC 124\n\n\n\n\n\n\n\n\n\nLeon A. van Paassen, Ph.D.\nAssociate Professor\nResearch: Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\nTeaching: CEE 351, CEE 494, CEE 598\nLeon.Vanpaassen@asu.edu\n480-965-1075, GWC 122\n\n\n\n\n\n\n\n\n\nJulian Tao, Ph.D.\nAssociate Professor\nResearch: Bioinspired burrowing mechanisms, bioinspired geosystems, smart and sustainable geosystems, soil behavior\nTeaching: CEE 452, CEE 550, CEE 494/598\njulian.tao@asu.edu\n480-965-1108, GWC 126\n\n\n\n\n\n\n\n\n\nHamed Khodadadi Tirkolaei, Ph.D.\nAssistant Professor\nResearch: Sustainable Geotechnics, Biogeotechnical Engineering, Ground Improvement\nTeaching: CEE 351, CEE 554\nhkhodadadi@asu.edu\n480-965-103, GWC 120\n\n\n\n\n\nResearch Professors\n\n\n\n\n\n\nNasser Hamdan, Ph.D.\nAssistant Research Professor\nDirector of Industrial Collaboration, CBBG Research: Biogeotechnical engineering for ground improvement, Biogeochemical processes, Biopolymers, Mineral precipitation in soils, Geomicrobiology\nnasser.hamdan@asu.edu\n480-965-2277\n\n\n\n\n\n\n\n\n\nJean Larson, Ph.D.\nAssistant Research Professor\nEducation Director, CBBG Research: Engineering Education\nJean.Larson@asu.edu\n480-965-7804, GWC 118\n\n\n\n\n\n\n\n\n\nJafar Razmi, Ph.D.\nResearch Professor\nResearch: Material behavior, infrastructural design and behavior under transportation, environmental, and other dynamic loads in geotechnical engineering.\nTeaching: CEE 555\njafar.razmi@asu.edu\n480-965-2543, ISTB2\n\n\n\n\n\nLecturers\n\n\n\n\n\n\nChris Lawrence, Ph.D.\nLecturer Senior\nResearch:Vector mechanics, mastery based and collaborative learning, geotechnical engineering, unsaturated soil mechanics, advanced soil testing systems Teaching: CEE 494/598\nchris.lawrence@asu.edu\n480-965-2893, CAVC 470\n\n\n\n\n\nFaculty Emeritus\n\n\n\n\n\n\nSandra Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Unsaturated soils, expansive and collapsible soils, arid region soils, foundations, modeling of unsaturated flow/deformation\n\n\n\n\n\n\n\n\n\nWilliam (Bill) Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Geotechnical Engineering"
+    "text": "Core Faculty\n\n\n\n\n\n\nEdward Kavazanjian, Jr., Ph.D., P.E., D.GE, NAE\nRegents Professor, Director of CBBG\nResearch: Biogeotechnical engineering, ground improvement, geotechnical earthquake engineering, waste containment system design, mechanical properties of municipal solid waste\nTeaching: CEE 552, CEE 557, CEE 559\n: Edward.Kavazanjian@asu.edu\n: 480-727-8566, : GWC 112B\n\n\n\n\n\n\n\n\n\nClaudia Zapata, Ph.D., P.E.\nAssociate Professor, Deputy Director of CBBG\nResearch: Geotechnical engineering, environmental effects in pavement design\nTeaching: CEE 452, CEE 553, CEE 554, CEE 598\n: Claudia.Zapata@asu.edu\n: 480-727-8514, : GWC 124\n\n\n\n\n\n\n\n\n\nLeon A. van Paassen, Ph.D.\nAssociate Professor\nResearch: Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\nTeaching: CEE 351, CEE 494, CEE 598\n: Leon.Vanpaassen@asu.edu\n: 480-965-1075, : GWC 122\n\n\n\n\n\n\n\n\n\nJulian Tao, Ph.D.\nAssociate Professor\nResearch: Bioinspired burrowing mechanisms, bioinspired geosystems, smart and sustainable geosystems, soil behavior\nTeaching: CEE 452, CEE 550, CEE 494/598\n: julian.tao@asu.edu\n: 480-965-1108, : GWC 126\n\n\n\n\n\n\n\n\n\nHamed Khodadadi Tirkolaei, Ph.D.\nAssistant Professor\nResearch: Sustainable Geotechnics, Biogeotechnical Engineering, Ground Improvement\nTeaching: CEE 351, CEE 554\n: hkhodadadi@asu.edu\n: 480-965-103, : GWC 120\n\n\n\n\n\nResearch Professors\n\n\n\n\n\n\nNasser Hamdan, Ph.D.\nAssistant Research Professor\nDirector of Industrial Collaboration, CBBG Research: Biogeotechnical engineering for ground improvement, Biogeochemical processes, Biopolymers, Mineral precipitation in soils, Geomicrobiology\n: nasser.hamdan@asu.edu\n: 480-965-2277, : GWC 112\n\n\n\n\n\n\n\n\n\nJean Larson, Ph.D.\nAssistant Research Professor\nEducation Director, CBBG Research: Engineering Education\n: Jean.Larson@asu.edu\n: 480-965-7804, : GWC 118\n\n\n\n\n\n\n\n\n\nJafar Razmi, Ph.D.\nResearch Professor\nResearch: Material behavior, infrastructural design and behavior under transportation, environmental, and other dynamic loads in geotechnical engineering.\nTeaching: CEE 555\n: jafar.razmi@asu.edu\n: 480-965-2543, : ISTB2\n\n\n\n\n\nLecturers\n\n\n\n\n\n\nChris Lawrence, Ph.D.\nLecturer Senior\nResearch:Vector mechanics, mastery based and collaborative learning, geotechnical engineering, unsaturated soil mechanics, advanced soil testing systems Teaching: CEE 494/598\n: chris.lawrence@asu.edu\n: 480-965-2893, : CAVC 470\n\n\n\n\n\nFaculty Emeritus\n\n\n\n\n\n\nSandra Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Unsaturated soils, expansive and collapsible soils, arid region soils, foundations, modeling of unsaturated flow/deformation\n: SANDRA.HOUSTON@asu.edu\n\n\n\n\n\n\n\n\n\nWilliam (Bill) Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Geotechnical Engineering"
   },
   {
     "objectID": "people.html#presidential-postdoctoral-fellow",
@@ -193,7 +200,7 @@
     "href": "people.html#staff",
     "title": "People",
     "section": "Staff",
-    "text": "Mary Bankhead, M.A., M.S.\nProject Coordinator/Fiscal Specialist"
+    "text": "Mary Bankhead, M.A., M.S.\nProject Coordinator/Fiscal Specialist\n: Mary.Bankhead@asu.edu\n: (480) 965-2489, : GWC 112"
   },
   {
     "objectID": "people.html#roster",

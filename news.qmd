@@ -6,8 +6,8 @@ title: News and Events
 
 ## News
 
-Some News.
+ <++>
 
 ## Events
 
-Some events
+ <++>
