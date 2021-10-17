@@ -16,11 +16,8 @@ ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechni
 
 ## Contact us
 
-```{r}
-#| echo: false
-#| fig.height: 3
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-111.93048, lat=33.42081, popup="Geo@ASU")
-```
+<i class="bi bi-geo-alt-fill"></i>: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281
+
+<i class="bi bi-telephone-fill"></i>: (480) 965-2489 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CI3nKCeGjYBwoTPGaBqTyTTlHNrYkpZH" width="640" height="480"></iframe>
