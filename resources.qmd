@@ -12,6 +12,7 @@ title: Resources
   * ISTB2-165
   * ECD-123
   * Polytechnic Field Station
+  * [Standard Operation Procedures](https://urldefense.com/v3/__https://www.dropbox.com/sh/2o1ogf12wetgime/AABSJy2TuggT94gNLITQ4w9ma?dl=0__;!!IKRxdwAv5BmarQ!NuHWcsgFYu2jnANVXCQG_eKkI_8vre6JEps3nRP-Vy5AmAGRVPpChnCYk6th8yJM$) 
 * Student Spaces
   * GWC-131
   * ISTB2-Mezzanine

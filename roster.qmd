@@ -9,12 +9,16 @@ title: Roster
 library(kableExtra)
 library(tidyverse)
 library(DT)
-dt  <- read_csv("./data/ASU Geotech Roster.csv")
-roster  <- dt[order(dt$'Last Name'),]
+dt <- read_csv("./data/ASU Geotech Roster.csv")
+roster <- dt[order(dt$"Last Name"), ]
 roster %>%
-  datatable(extensions = 'Buttons',
-            options = list(dom = 'Bfrtip',
-                           buttons = c('copy', 'csv', 'excel', 'pdf'),
-                           iDisplayLength = 100))
+  datatable(
+    extensions = "Buttons",
+    options = list(
+      dom = "Bfrtip",
+      buttons = c("copy", "csv", "excel", "pdf"),
+      iDisplayLength = 100
+    )
+  )
 ```
 
