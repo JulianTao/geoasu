@@ -17,7 +17,7 @@ site:
       - about.qmd
     right:
       - icon: github
-        href: https://github.com/JulianTao/geoasu
+        href: https://github.com/geotechasu/soilrocks
   sidebar:
     style: "docked"
     search: true
@@ -34,7 +34,6 @@ format:
     theme: 
       - asu.scss
       - litera
-    max-width: 2500px
     # margin-left: 0
     highlight-style: github
     toc: true
