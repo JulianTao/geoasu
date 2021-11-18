@@ -34,6 +34,7 @@ format:
     theme: 
       - asu.scss
       - litera
-    # margin-left: 0
+    margin-left: 10%
+    max-width:  100%
     highlight-style: github
     toc: true
