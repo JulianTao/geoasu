@@ -32,8 +32,8 @@ site:
 format:
   html:
     theme: 
-      - asu.scss
       - litera
+      - asu.scss
     margin-left: 10%
     max-width:  100%
     highlight-style: github
