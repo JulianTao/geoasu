@@ -32,7 +32,7 @@ site:
 format:
   html:
     theme: 
-      # - litera
+      - litera
       - asu.scss
     margin-left: 10%
     max-width:  100%
