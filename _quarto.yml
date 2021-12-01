@@ -5,6 +5,7 @@ project:
 website:
   title: "Geotech Group at ASU"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -32,9 +33,7 @@ website:
 format:
   html:
     theme: 
-      # - litera
+      - litera
       - asu.scss
-    margin-left: 10%
-    max-width:  100%
     highlight-style: github
     toc: true

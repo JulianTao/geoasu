@@ -5,6 +5,20 @@ $orange:  #ff7f32 !default;
 $blue:    #00a3e0 !default;
 $green:   #78be20 !default;
 $grey:    #747474 !default;
-$primary: $red !default; 
+$primary:   $red !default; 
 $navbar-light-hover-color:  $yellow !default;
 $navbar-light-active-color:  $yellow !default;
+
+
+// Fonts
+
+$font-size-base: 1.1rem !default;
+
+/*-- scss:rules --*/
+
+// Navbar
+
+.navbar {
+  font-size: 1.2rem;
+}
+
