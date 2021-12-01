@@ -77,13 +77,6 @@
     "text": "Alumni Resources\n\nASU Alumni\nASU Alumni Engineering Chapter\nFriends of Civil and Environmental Engineering"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "ImagePlaceHolder"
-  },
-  {
     "objectID": "about.html#contact-us",
     "href": "about.html#contact-us",
     "title": "About",
@@ -201,5 +194,12 @@
     "title": "News and Events",
     "section": "Events",
     "text": "Events\n<++>"
+  },
+  {
+    "objectID": "playground.html",
+    "href": "playground.html",
+    "title": "Playground",
+    "section": "",
+    "text": "Accordion Item #1\n\n\n\nThis is the body"
   }
 ]

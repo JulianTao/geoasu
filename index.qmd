@@ -2,6 +2,22 @@
 title: Welcome
 ---
 
-![ImagePlaceHolder](img/ImagePlaceholder.png)
+::: {.carousel .slide data-bs-ride="carousel"}
+::: {.carousel-inner}
+
+::: {.carousel-item .active}
+![](./img/ImagePlaceholder.png) 
+:::
+
+::: {.carousel-item}
+![](./img/GSOTrip.jpg)
+:::
+
+::: {.carousel-item}
+![](./img/HomeComing2021.jpg)
+:::
+
+:::
+:::
 
 

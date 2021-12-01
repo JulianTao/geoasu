@@ -2,7 +2,7 @@ project:
   type: site
   output-dir: docs
 
-site:
+website:
   title: "Geotech Group at ASU"
   navbar:
     left:
@@ -18,21 +18,21 @@ site:
     right:
       - icon: github
         href: https://github.com/geotechasu/soilrocks
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - people.qmd
-      - research.qmd
-      - education.qmd
-      - resources.qmd
-      - organizations.qmd
-      - news.qmd
-      - about.qmd
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - people.qmd
+  #     - research.qmd
+  #     - education.qmd
+  #     - resources.qmd
+  #     - organizations.qmd
+  #     - news.qmd
+  #     - about.qmd
 format:
   html:
     theme: 
-      - litera
+      # - litera
       - asu.scss
     margin-left: 10%
     max-width:  100%
