@@ -2,6 +2,8 @@
 title: Playground
 ---
 
+## Accordion
+
 ::: {.accordion}
 ::: {.accordion-item}
 
@@ -18,3 +20,45 @@ This is the body
 
 :::
 :::
+
+
+## Buttons
+
+[Primary Button]{.btn .btn-primary}
+
+::: {.btn-group role="group" aria-label="Basic mixed styles example"}
+[Left]{.btn .btn-danger}
+[Middle]{.btn .btn-warning}
+[Right]{.btn .btn-success}
+:::
+
+## Cards
+
+::: {.card-group}
+
+::: {.card style="width: 18rem;"}
+![](./img/GSOTrip.jpg){.card-img-top}
+
+::: {.card-body}
+
+##### Card Title {.card-title}
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+:::
+:::
+
+
+::: {.card style="width: 18rem;"}
+![](./img/GSOTrip.jpg){.card-img-top}
+
+::: {.card-body}
+
+##### Card Title {.card-title}
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+:::
+:::
+
+
+:::
+
