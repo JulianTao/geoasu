@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Geotech Group at ASU"
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
   navbar:
     background: primary
     left:
@@ -34,6 +38,6 @@ format:
   html:
     theme: 
       - litera
-      - asu.scss
+      - ./assets/asu.scss
     highlight-style: github
     toc: true

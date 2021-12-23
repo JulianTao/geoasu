@@ -9,6 +9,8 @@ $primary:   $red !default;
 $navbar-light-hover-color:  $yellow !default;
 $navbar-light-active-color:  $yellow !default;
 
+$carousel-control-color:             $yellow;
+$carousel-indicator-active-bg:       $yellow;
 
 // Fonts
 
@@ -19,6 +21,18 @@ $font-size-base: 1.1rem !default;
 // Navbar
 
 .navbar {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
+.huge {
+  font-size: 400%;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: $yellow;
+  padding-top: 10%;
+}
+.center {
+  text-align: center;
+  display: block;
+}

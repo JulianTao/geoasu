@@ -114,16 +114,77 @@
 <header id="title-block-header">
 <h1 class="title display-7">Welcome</h1>
 </header>
-<div class="carousel slide" data-bs-ride="carousel">
+<div id="carousel" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
+</button>
+<button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide 2">
+</button>
+<button type="button" data-bs-target="#carousel" data-bs-slide-to="2" aria-label="Slide 3">
+</button>
+</div>
 <div class="carousel-inner">
 <div class="carousel-item active">
-<p><img src="./img/ImagePlaceholder.png" class="img-fluid"></p>
+<p><img src="./img/MIDPfield.png" class="img-fluid"></p>
+<div class="carousel-caption">
+<p><strong>MIDP field trial</strong></p>
+</div>
 </div>
 <div class="carousel-item">
 <p><img src="./img/GSOTrip.jpg" class="img-fluid"></p>
+<div class="carousel-caption">
+<p><strong>Graduate Student Field Trip</strong></p>
+</div>
 </div>
 <div class="carousel-item">
 <p><img src="./img/HomeComing2021.jpg" class="img-fluid"></p>
+<div class="carousel-caption">
+<p><strong>Homecoming 2021</strong></p>
+</div>
+</div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span>
+</button>
+<p><button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span> </button></p>
+</div>
+<div class="card-group">
+<div class="card border-light">
+<p><a href="./people.html" class="bi bi-people huge"></a></p>
+<div class="card-body">
+<p><a href="./people.html" class="btn btn-primary center">People</a></p>
+</div>
+</div>
+<div class="card border-light">
+<p><span class="bi bi-book-half huge"></span></p>
+<div class="card-body">
+<p><a href="./research.html" class="btn btn-primary center">Research</a></p>
+</div>
+</div>
+<div class="card border-light">
+<p><span class="bi bi-easel huge"></span></p>
+<div class="card-body">
+<p><a href="./education.html" class="btn btn-primary center">Education</a></p>
+</div>
+</div>
+</div>
+<div class="card-group">
+<div class="card border-light">
+<p><span class="bi bi-diagram-3 huge"></span></p>
+<div class="card-body">
+<p><a href="./organizations.html" class="btn btn-primary center">Organizations</a></p>
+</div>
+</div>
+<div class="card border-light">
+<p><span class="bi bi-gear-wide-connected huge"></span></p>
+<div class="card-body">
+<p><a href="./resources.html" class="btn btn-primary center">Resources</a></p>
+</div>
+</div>
+<div class="card border-light">
+<p><span class="bi bi-newspaper huge"></span></p>
+<div class="card-body">
+<p><a href="./news.html" class="btn btn-primary center">News and Events</a></p>
 </div>
 </div>
 </div>
@@ -213,6 +274,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+      <div class="nav-footer-center">
+        <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./about.html">About</a>
+  </li>  
+</ul>
+      </div>
+  </div>
+</footer>
 
 
 </body></html>
