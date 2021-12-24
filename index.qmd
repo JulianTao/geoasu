@@ -1,7 +1,6 @@
 ---
 title: Welcome
 ---
-
 ::: {#carousel .carousel .slide data-bs-ride="carousel"}
 
 ::: {.carousel-indicators}
@@ -41,11 +40,12 @@ title: Welcome
 <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+</button>
+
+<button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
-  </button>
+</button>
 
 :::
 
@@ -60,7 +60,7 @@ title: Welcome
 :::
 
 ::: {.card .border-light}
-[]{.bi .bi-book-half .huge}
+[](./research.qmd){.bi .bi-book-half .huge}
 
 ::: {.card-body}
 [Research](./research.qmd){.btn .btn-primary .center}
@@ -68,20 +68,20 @@ title: Welcome
 :::
 
 ::: {.card .border-light}
-[]{.bi .bi-easel .huge}
+[](./education.qmd){.bi .bi-easel .huge}
 
 ::: {.card-body}
 [Education](./education.qmd){.btn .btn-primary .center}
 :::
 :::
 
-
 :::
+
 
 ::: {.card-group}
 
 ::: {.card .border-light}
-[]{.bi .bi-diagram-3 .huge}
+[](./organizations.qmd){.bi .bi-diagram-3 .huge}
 
 ::: {.card-body}
 [Organizations](./organizations.qmd){.btn .btn-primary .center}
@@ -89,7 +89,7 @@ title: Welcome
 :::
 
 ::: {.card .border-light}
-[]{.bi .bi-gear-wide-connected .huge}
+[](./resources.qmd){.bi .bi-gear-wide-connected .huge}
 
 ::: {.card-body}
 [Resources](./resources.qmd){.btn .btn-primary .center}
@@ -97,7 +97,7 @@ title: Welcome
 :::
 
 ::: {.card .border-light}
-[]{.bi .bi-newspaper .huge}
+[](./news.qmd){.bi .bi-newspaper .huge}
 
 ::: {.card-body}
 [News and Events](./news.qmd){.btn .btn-primary .center}

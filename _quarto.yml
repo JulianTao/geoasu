@@ -5,11 +5,13 @@ project:
 website:
   title: "Geotech Group at ASU"
   page-footer:
-    center: 
+    left: "Copyright 2021, ASU Geotech Group"
+    right: 
       - text: "About"
         href: about.qmd
   navbar:
     background: primary
+    pinned: true
     left:
       - href: index.qmd
         text: Home

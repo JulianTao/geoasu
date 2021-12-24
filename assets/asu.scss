@@ -15,7 +15,7 @@ $carousel-indicator-active-bg:       $yellow;
 // Fonts
 
 $font-size-base: 1.1rem !default;
-
+$headings-color: $red !default;
 /*-- scss:rules --*/
 
 // Navbar
@@ -25,7 +25,7 @@ $font-size-base: 1.1rem !default;
 }
 
 .huge {
-  font-size: 400%;
+  font-size: 300%;
   display: block;
   text-align: center;
   font-weight: bold;
