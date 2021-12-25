@@ -6,13 +6,13 @@ website:
   title: "Geotech Group at ASU"
   page-footer:
     left: "Copyright 2021, ASU Geotech Group"
-    right: 
+    center: 
       - text: "About"
         href: about.qmd
   navbar:
     background: primary
     pinned: true
-    left:
+    right:
       - href: index.qmd
         text: Home
       - people.qmd
@@ -22,7 +22,6 @@ website:
       - organizations.qmd
       - news.qmd
       - about.qmd
-    right:
       - icon: github
         href: https://github.com/geotechasu/soilrocks
   # sidebar:
