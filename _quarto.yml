@@ -3,11 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Geotech Group at ASU"
+  title: "Geotech at ASU"
   page-footer:
-    left: "Copyright 2021, ASU Geotech Group"
     center: 
-      - text: "About"
+      - text: "\\©2021-2022, ASU Geotech Group"
         href: about.qmd
   navbar:
     background: primary
@@ -24,21 +23,10 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/geotechasu/soilrocks
-  # sidebar:
-  #   style: "docked"
-  #   search: true
-  #   contents:
-  #     - people.qmd
-  #     - research.qmd
-  #     - education.qmd
-  #     - resources.qmd
-  #     - organizations.qmd
-  #     - news.qmd
-  #     - about.qmd
 format:
   html:
     theme: 
       - litera
       - ./assets/asu.scss
-    highlight-style: github
+    css: assets/styles.css
     toc: true

@@ -20,4 +20,7 @@ ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechni
 
 <i class="bi bi-telephone-fill"></i>: (480) 965-2489 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CI3nKCeGjYBwoTPGaBqTyTTlHNrYkpZH" width="640" height="480"></iframe>
+::: {.ratio .ratio-16x9}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CI3nKCeGjYBwoTPGaBqTyTTlHNrYkpZH"></iframe>
+
+:::
