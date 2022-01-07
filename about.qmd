@@ -16,7 +16,7 @@ ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechni
 
 * The work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure. 
 
-## Contact us
+### Contact us
 
 <i class="bi bi-geo-alt-fill"></i>: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281
 
