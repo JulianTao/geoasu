@@ -30,7 +30,8 @@ h2 {
   display: inline-block;
   border-left: 10px solid var(--bs-gold);
   border-bottom: none;
-  padding-top: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
   padding-left: 10px;
 }
 
