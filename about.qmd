@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+## The Geotech Group at ASU
+
 Geotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.
 
 * ASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations.
@@ -24,3 +26,13 @@ ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechni
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CI3nKCeGjYBwoTPGaBqTyTTlHNrYkpZH"></iframe>
 
 :::
+
+##  The site 
+
+This website is built with [Quarto](https://quarto.org/), an open-source scientific and technical publishing system built on [Pandoc](https://pandoc.org/). 
+
+Copyright (c) ASU Geotech Group  
+
+This work is licensed under a  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)

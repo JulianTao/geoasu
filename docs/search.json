@@ -84,6 +84,13 @@
     "text": "MIDP field trial\n\n\n\n\n\nGraduate Student Field Trip\n\n\n\n\n\nHomecoming 2021\n\n\n\n\n Previous\n\n\n Next\n\n\n\n\n\n\nPeople\n\n\n\n\n\nResearch\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\nOrganizations\n\n\n\n\n\nResources\n\n\n\n\n\nNews and Events"
   },
   {
+    "objectID": "about.html#the-geotech-group-at-asu",
+    "href": "about.html#the-geotech-group-at-asu",
+    "title": "About",
+    "section": "The Geotech Group at ASU",
+    "text": "The Geotech Group at ASU\nGeotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure."
+  },
+  {
     "objectID": "about.html#contact-us",
     "href": "about.html#contact-us",
     "title": "About",
@@ -91,9 +98,16 @@
     "text": "Contact us\n: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281\n: (480) 965-2489"
   },
   {
+    "objectID": "about.html#the-site",
+    "href": "about.html#the-site",
+    "title": "About",
+    "section": "The site",
+    "text": "The site\nThis website is built with Quarto, an open-source scientific and technical publishing system built on Pandoc.\nCopyright (c) ASU Geotech Group\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+  },
+  {
     "objectID": "accordions.html",
     "href": "accordions.html",
-    "title": "Geotech Group at ASU",
+    "title": "Geotech at ASU",
     "section": "",
     "text": "Accordion Item #1\n\n\n\nThis is the first item’s accordion body.\n\n\n\n\n\n\n\nAccordion Item #2\n\n\n\nThis is the second item’s accordion body.\n\n\n\n\n\n\n\n\n\n\n\nEdward Kavazanjan\n\n\n\n\n\n\n\nClaudia Zapata\n\n\n\n\n\n\n\nLeon van Paassen\n\n\n\n\n\n\n\n\n\nJulian Tao\n\n\n\n\n\n\n\nHamed Khodadadi Tirkolaei\n\n\n\n\n\n\n\n\n\n\n\nNasser Hamdan\n\n\n\n\n\n\n\nJean Larson\n\n\n\n\n\n\n\n\n\n\n\nChris Lawrence\n\n\n\n\n\n\n\nJafar Razmi\n\n\n\n\n\n\n\n\n\n\n\nSandra Houston\n\n\n\n\n\n\n\nWilliam (Bill) Houston"
   },

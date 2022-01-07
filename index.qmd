@@ -55,7 +55,7 @@ title: Welcome
 [](./people.qmd){.bi .bi-people .huge}
 
 ::: {.card-body}
-[People](./people.qmd){.btn .btn-primary .center}
+[**People**](./people.qmd){.btn .btn-danger .center}
 :::
 :::
 
@@ -63,7 +63,7 @@ title: Welcome
 [](./research.qmd){.bi .bi-book-half .huge}
 
 ::: {.card-body}
-[Research](./research.qmd){.btn .btn-primary .center}
+[**Research**](./research.qmd){.btn .btn-danger .center}
 :::
 :::
 
@@ -71,7 +71,7 @@ title: Welcome
 [](./education.qmd){.bi .bi-easel .huge}
 
 ::: {.card-body}
-[Education](./education.qmd){.btn .btn-primary .center}
+[**Education**](./education.qmd){.btn .btn-danger .center}
 :::
 :::
 
@@ -84,7 +84,7 @@ title: Welcome
 [](./organizations.qmd){.bi .bi-diagram-3 .huge}
 
 ::: {.card-body}
-[Organizations](./organizations.qmd){.btn .btn-primary .center}
+[**Organizations**](./organizations.qmd){.btn .btn-danger .center}
 :::
 :::
 
@@ -92,7 +92,7 @@ title: Welcome
 [](./resources.qmd){.bi .bi-gear-wide-connected .huge}
 
 ::: {.card-body}
-[Resources](./resources.qmd){.btn .btn-primary .center}
+[**Resources**](./resources.qmd){.btn .btn-danger .center}
 :::
 :::
 
@@ -100,7 +100,7 @@ title: Welcome
 [](./news.qmd){.bi .bi-newspaper .huge}
 
 ::: {.card-body}
-[News and Events](./news.qmd){.btn .btn-primary .center}
+[**News and Events**](./news.qmd){.btn .btn-danger .center}
 :::
 :::
 

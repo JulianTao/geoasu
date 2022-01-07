@@ -52,3 +52,27 @@ h1 {
   text-align: center;
   display: block;
 }
+
+/* Navbar */
+
+.navbar {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Style the links inside the navigation bar */
+.navbar-nav a {
+  float: left;
+  display: block;
+  padding: 14px 16px;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar-nav a:hover {
+  border-bottom: 5px solid var(--bs-gold);
+}
+
+.navbar-nav a.active {
+  border-bottom: 5px solid var(--bs-gold);
+}
+
