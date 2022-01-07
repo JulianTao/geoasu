@@ -5,21 +5,21 @@ title: Organizations
 ## ASU Chapters
 
 * ASU Geo-Institute Graduate Student Chapter
-  * [Website](https://asu.campuslabs.com/engage/organization/geotechnial-institute)
-  * Instagram: @[geo_asu](https://www.instagram.com/geo_asu/?hl=en)
+  * []{.fa .fa-external-link-square-alt}: [Website](https://asu.campuslabs.com/engage/organization/geotechnial-institute)
+  * []{.fab .fa-instagram-square}: Instagram: @[geo_asu](https://www.instagram.com/geo_asu/?hl=en)
 * ASU ASCE Student Chapter
-  * [Website](https://studentorgs.engineering.asu.edu/asce/)
-  * Facebook: @[ASUASCE](https://www.facebook.com/groups/ASUASCE)
-  * Instagram: @[asceasu](https://www.instagram.com/asceasu/?hl=en)
+  * []{.fa .fa-external-link-square-alt}: [Website](https://studentorgs.engineering.asu.edu/asce/)
+  * []{.fab .fa-facebook-square}: Facebook: @[ASUASCE](https://www.facebook.com/groups/ASUASCE)
+  * []{.fab .fa-instagram-square}: Instagram: @[asceasu](https://www.instagram.com/asceasu/?hl=en)
 
 ## Arizona Sections
 
-* [Arizona Geo-Institute Chapter](http://www.azsce.org/groups/institutes/geo-institute/)
-* [Arizona ASCE Section](http://www.azsce.org/) 
-* [Arizona AEG Section](http://www.azaeg.org/) 
+* []{.fa .fa-external-link-square-alt}: [Arizona Geo-Institute Chapter](http://www.azsce.org/groups/institutes/geo-institute/)
+* []{.fa .fa-external-link-square-alt}: [Arizona ASCE Section](http://www.azsce.org/) 
+* []{.fa .fa-external-link-square-alt}: [Arizona AEG Section](http://www.azaeg.org/) 
 
 ## National Organizations
 
-* [National Geo-Institute](https://www.geoinstitute.org/)
-* [National ASCE](https://www.asce.org/)
-* [ASU Graduate and Professional Student Association](https://gpsa.asu.edu/)
+* []{.fa .fa-external-link-square-alt}: [National Geo-Institute](https://www.geoinstitute.org/)
+* []{.fa .fa-external-link-square-alt}: [National ASCE](https://www.asce.org/)
+* []{.fa .fa-external-link-square-alt}: [ASU Graduate and Professional Student Association](https://gpsa.asu.edu/)

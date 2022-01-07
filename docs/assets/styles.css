@@ -21,18 +21,17 @@ body .page-columns {
 }
 }
 
- /* Navbar */
-.navbar {
-  font-size: 1.1rem;
-}
-
-.navbar-brand > img {
-  max-height: 36px;
-}
-
  /* Typography */
 h1 {
   text-align: center;
+}
+
+h2 {
+  display: inline-block;
+  border-left: 10px solid var(--bs-gold);
+  border-bottom: none;
+  padding-top: 0.5rem;
+  padding-left: 10px;
 }
 
 .lead {
@@ -53,7 +52,20 @@ h1 {
   display: block;
 }
 
+.alert {
+  background: var(--bs-gold);
+}
+
 /* Navbar */
+
+.navbar-brand > img {
+  max-height: 36px;
+}
+
+.navbar-title {
+  background: var(--bs-gold);
+  padding: 0.5em;
+}
 
 .navbar {
   font-size: 1.1rem;
