@@ -1,6 +1,8 @@
 ---
 title: Welcome
+subtitle: Geotechnical Engineering Group at Arizona State University
 ---
+
 ::: {#carousel .carousel .slide data-bs-ride="carousel"}
 
 ::: {.carousel-indicators}
@@ -49,6 +51,8 @@ title: Welcome
 
 :::
 
+
+
 ::: {.card-group}
 
 ::: {.card .border-light}
@@ -76,7 +80,6 @@ title: Welcome
 :::
 
 :::
-
 
 ::: {.card-group}
 
