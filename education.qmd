@@ -23,6 +23,9 @@ title: Education and Outreach
 * CEE 494/598 Engineering Geology 
 * CEE 494/598 Earth Structures (from non-geotech majors) 
 
-## Outreach
+## Education and Outreach Resources Shared with CBBG
 
-<++>
+* [Biogeotechnical Engineering Curriculum](https://cbbg.engineering.asu.edu/education/curriculum/)
+* [Biogeotechnical Engineering Training Videos](https://cbbg.engineering.asu.edu/education/biogeotechnical-engineering-training-videos/)
+* [Outreach Demonstrations](https://cbbg.engineering.asu.edu/education/curriculum/outreachdemos/)
+
