@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Geotech at ASU"
+  favicon: ./img/favicon.png
   page-footer:
     center: 
       - text: "\\©2021-2022, ASU Geotech Group"
