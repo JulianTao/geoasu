@@ -1,0 +1,18 @@
+---
+title: Publications on Engineering Education
+---
+
+
+```{r ref}
+library(RefManageR)
+bib <- ReadBib("./engedu_pubs.bib", check = FALSE)
+myopts <- BibOptions(
+  style = "markdown",
+  sorting = "ydnt",
+  no.print.fields = list("issn", "urldate")
+  )
+```
+
+```{r, results = "asis"}
+bib[bibtype = c("article", "inproceedings")]
+```

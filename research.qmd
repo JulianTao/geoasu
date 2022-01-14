@@ -16,7 +16,13 @@ title: Research
 
 ## Engineering Education
 
-<++>
+Engineering Education is an interdisciplinary field of research that leverages the expertise from educators, engineers, and evaluators to create knowledge surrounding technical aspects in addition to teaching methods, curriculum development, and assessment.
+ 
+Our current research topics in this field include 1) Problem Based Learning (PBL) in which learners work collaboratively to develop strategies to solve real-world problems, 2) evaluation of engineering educational programming and outreach, 3) creating an environment fostering a holistic engineering skillset that prepares students for a variety of engineering careers and accelerates their professional development, and 4) interdisciplinary curriculum development using principles of learning theories and instructional design for the pre-college, university, and practitioner levels, and in  both face-to-face and virtual environments.
+ 
+Research is often conducted across disciplines, departments, and even institutions. 
+Recent engineering education publications related to geotechnics at ASU can be found [here](./data/publications/engedu_pubs.qmd).
+
 
 ## Geo-environmental Engineering
 

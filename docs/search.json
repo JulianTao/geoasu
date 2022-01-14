@@ -144,7 +144,7 @@
     "href": "research.html#engineering-education",
     "title": "Research",
     "section": "Engineering Education",
-    "text": "Engineering Education\n<++>"
+    "text": "Engineering Education\nEngineering Education is an interdisciplinary field of research that leverages the expertise from educators, engineers, and evaluators to create knowledge surrounding technical aspects in addition to teaching methods, curriculum development, and assessment.\nOur current research topics in this field include 1) Problem Based Learning (PBL) in which learners work collaboratively to develop strategies to solve real-world problems, 2) evaluation of engineering educational programming and outreach, 3) creating an environment fostering a holistic engineering skillset that prepares students for a variety of engineering careers and accelerates their professional development, and 4) interdisciplinary curriculum development using principles of learning theories and instructional design for the pre-college, university, and practitioner levels, and in both face-to-face and virtual environments.\nResearch is often conducted across disciplines, departments, and even institutions. Recent engineering education publications related to geotechnics at ASU can be found here."
   },
   {
     "objectID": "research.html#geo-environmental-engineering",
@@ -201,5 +201,12 @@
     "title": "News and Events",
     "section": "Events",
     "text": "Events\n<++>"
+  },
+  {
+    "objectID": "data/publications/engedu_pubs.html",
+    "href": "data/publications/engedu_pubs.html",
+    "title": "Publications on Engineering Education",
+    "section": "",
+    "text": "[1] J. S. Larson, M. O’Donnell, K. L. Eustice, et al. “Lessons Learned from Evaluating Three Virtual Research Experiences for Teachers (RET) Programs Using Common Instruments and Protocols (Evaluation)”. In: 2021 ASEE Virtual Annual Conference Content Access. Jul. 2021.\n[2] J. S. Larson and K. Farnsworth. “Crisis Teaching Online: Reaching K-12 Students through Remote Engineering Lab-Based Activities during the COVID-19 Pandemic”. In: Advances in Engineering Education 8.4 (2020).\n[3] J. Larson, W. Barnard, J. Chandler, et al. “Moving Beyond Technical Skills: Fostering the Development of Essential Skills Needed for a Successful Career in Engineering”. In: Geo-Congress 2020. Minneapolis, Minnesota: ASCE, Feb. 2020, pp. 694-701. DOI: 10.1061/9780784482810.072.\n[4] J. S. Larson, M. O’Donnell, W. M. Barnard, et al. “Three ERCs and a National Network Node: Assessing Engineering Outcomes for Middle School Students Across a Joint Outreach Event”. In: 2019 ASEE Annual Conference & Exposition. Jun. 2019.\n[5] J. S. Larson, K. Farnsworth, L. S. Folkestad, et al. “Using Problem-Based Learning to Enable Application of Foundation Engineering Knowledge in a Real-World Problem”. In: 2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE). Dec. 2018, pp. 500-506. DOI: 10.1109/TALE.2018.8615329.\n[6] M. Dalal, J. S. Larson, C. E. Zapata, et al. “Supporting Engineering Education with Instructional Design: The Case of an Introductory Module on Biogeotechnical Engineering”. In: 2017 Pacific Southwest Section Meeting. Apr. 2017.\n[7] J. S. Larson, M. Dalal, W. C. Savenye, et al. “Complete Research Paper: Implementation of an Introductory Module on Biogeotechnics in a Freshman Engineering Course”. In: 2017 ASEE Annual Conference & Exposition. Jun. 2017."
   }
 ]

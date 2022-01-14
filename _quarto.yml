@@ -36,4 +36,7 @@ format:
     toc: true
     include-in-header: 
       - assets/iconfonts.html
-
+execute:
+  echo: false
+  warning: false 
+  message: false
