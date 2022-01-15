@@ -8,7 +8,11 @@ title: Research
 
 ## Bio-inspired Geotechnics
 
-<++>
+In Bio-inspired Geotechnics, we discover fundamental mechanisms of various interactions between living things and geological materials, to abstract these mechanisms to engineering design principles, and to translate the design principles to autonomous, efficient, sustainable and intelligent geotechnics. 
+
+Our current research topics in Bio-inspired Geotechnics include: 1) Bio-inspired self-burrowing robots for autonomous underground exploration and monitoring, 2) Bio-inspired underground sensing and communication for underground internet of things, and 3) Bio-inspired sustainable countermeasures to natural hazards.
+
+Recent publications on Bio-inspired Geotechnics at ASU can be found [here](./data/publications/big_pubs.qmd).
 
 ## Earthquake Engineering
 
