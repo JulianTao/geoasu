@@ -1,0 +1,11 @@
+- caption: "MIDP Field Trial"
+  image: "./img/MIDPfield.png" 
+  link: "#MIDP"
+
+- caption: "Graduate Student Field Trip"
+  image: "./img/GSOTrip.jpg"
+  link: "#GSO"
+
+- caption: "Homecoming 2021"
+  image: "./img/HomeComing2021.jpg"
+  link: "#Homecoming"

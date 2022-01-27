@@ -51,8 +51,6 @@ subtitle: Geotechnical Engineering Group at Arizona State University
 
 :::
 
-
-
 ::: {.card-group}
 
 ::: {.card .border-light}
