@@ -1,4 +1,4 @@
-# author: J.J. Allaire
+# original author: J.J. Allaire
 # src: https://raw.githubusercontent.com/quarto-dev/quarto-web/main/htmltools/carousel.R
 
 library(htmltools)
@@ -21,7 +21,7 @@ carousel <- function(id, duration, items) {
     tagList(lapply(items, function(item) item$item))
   )
   div(
-    id = id, class = "carousel carousel-dark slide", `data-bs-ride` = "carousel",
+    id = id, class = "carousel slide", `data-bs-ride` = "carousel",
     indicators,
     items,
     navButton(id, "prev", "Prevoius"),
@@ -47,10 +47,10 @@ carouselItem <- function(caption, image, link, index, interval) {
   item <- div(
     class = paste0("carousel-item", ifelse(index == 0, " active", "")),
     `data-bs-interval` = interval,
-    a(href = link, img(src = image, class = "d-block  mx-auto border")),
+    a(href = link, img(src = image, class = "img-fluid")),
     div(
       class = "carousel-caption d-none d-md-block",
-      tags$p(class = "fw-light", caption)
+      tags$p(class = "fw-bold", caption)
     )
   )
   list(
@@ -73,4 +73,3 @@ navButton <- function(targetId, type, text) {
     span(class = "visually-hidden", text)
   )
 }
-
