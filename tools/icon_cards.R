@@ -3,17 +3,10 @@ library(htmltools)
 icon_card <- function(x) {
   div(
     class = "card border-light",
-    p(a(
-      href = x$link,
-      class = "bi huge x$icon_name"
-    )),
+    p(a(href = x$link, class = paste0("bi huge ", x$icon_name))),
     div(
       class = "card-body",
-      p(a(
-        href = x$link,
-        class = "btn btn-danger center",
-        strong(x$botton_name)
-      ))
+      p(a(href = x$link, class = "btn btn-danger center", strong(x$button_name)))
     )
   )
 }

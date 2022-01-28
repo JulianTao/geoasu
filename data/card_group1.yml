@@ -1,0 +1,12 @@
+- icon_name: "bi-people"
+  button_name: "People"
+  link: "./people.qmd"
+
+- icon_name: "bi-book-half"
+  button_name: "Research"
+  link: "./research.qmd"
+
+- icon_name: "bi-easel"
+  button_name: "Education"
+  link: "./education.qmd"
+

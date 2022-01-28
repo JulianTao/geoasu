@@ -5,61 +5,11 @@ subtitle: Geotechnical Engineering Group at Arizona State University
 
 ```{r} 
 source("./tools/carousel.R")
-carousel("homepage-carousel", 5000, yaml.load_file("carousel.yml"))
+carousel("homepage-carousel", 5000, yaml.load_file("./data/carousel.yml"))
 ```
 
-::: {.card-group}
-
-::: {.card .border-light}
-[](./people.qmd){.bi .bi-people .huge}
-
-::: {.card-body}
-[**People**](./people.qmd){.btn .btn-danger .center}
-:::
-:::
-
-::: {.card .border-light}
-[](./research.qmd){.bi .bi-book-half .huge}
-
-::: {.card-body}
-[**Research**](./research.qmd){.btn .btn-danger .center}
-:::
-:::
-
-::: {.card .border-light}
-[](./education.qmd){.bi .bi-easel .huge}
-
-::: {.card-body}
-[**Education**](./education.qmd){.btn .btn-danger .center}
-:::
-:::
-
-:::
-
-::: {.card-group}
-
-::: {.card .border-light}
-[](./organizations.qmd){.bi .bi-diagram-3 .huge}
-
-::: {.card-body}
-[**Organizations**](./organizations.qmd){.btn .btn-danger .center}
-:::
-:::
-
-::: {.card .border-light}
-[](./resources.qmd){.bi .bi-gear-wide-connected .huge}
-
-::: {.card-body}
-[**Resources**](./resources.qmd){.btn .btn-danger .center}
-:::
-:::
-
-::: {.card .border-light}
-[](./news.qmd){.bi .bi-newspaper .huge}
-
-::: {.card-body}
-[**News and Events**](./news.qmd){.btn .btn-danger .center}
-:::
-:::
-
-:::
+```{r} 
+source("./tools/icon_cards.R")
+card_group("./data/card_group1.yml")
+card_group("./data/card_group2.yml")
+```

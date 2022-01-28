@@ -1,0 +1,12 @@
+- icon_name: "bi-diagram-3"
+  button_name: "Organizations"
+  link: "./organizations.qmd"
+
+- icon_name: "bi-gear-wide-connected"
+  button_name: "Resources"
+  link: "./resources.qmd"
+
+- icon_name: "bi-newspaper"
+  button_name: "News and Events"
+  link: "./news.qmd"
+
