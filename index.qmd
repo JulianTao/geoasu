@@ -1,6 +1,7 @@
 ---
 title: Welcome
 subtitle: Geotechnical Engineering Group at Arizona State University
+page-layout: full
 ---
 
 ```{r} 
