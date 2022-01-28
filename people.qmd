@@ -146,10 +146,16 @@ Professor Emeritus\
 :::
 
 ## Presidential Postdoctoral Fellow
-   * Emmanuel Salifu
 
-## Postdoctoral Researchers
-   * Sichuan Huang
+::: {layout="[30, 70]"}
+
+![](./img/Emmanuel.jpg) 
+
+**[Emmanuel Salifu](https://www.emmanuelsalifu.com/)**, Ph.D.\
+**Research:** land-based engineering, environmental sustainability and soil/water engineering for agriculture and civil infrastructure\
+<i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
+<i class="bi bi-geo-alt-fill"></i>: GWC 127
+:::
 
 ## Visiting Scholars
    * Daehyun Kim 
