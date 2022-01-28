@@ -154,7 +154,7 @@ Professor Emeritus\
 **[Emmanuel Salifu](https://www.emmanuelsalifu.com/)**, Ph.D.\
 **Research:** land-based engineering, environmental sustainability and soil/water engineering for agriculture and civil infrastructure\
 <i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
-<i class="bi bi-geo-alt-fill"></i>: GWC 127
+<i class="bi bi-geo-alt-fill"></i>: GWC 128
 :::
 
 ## Visiting Scholars
