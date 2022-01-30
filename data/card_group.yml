@@ -1,0 +1,24 @@
+- icon_name: "bi-people"
+  button_name: "People"
+  link: "./people.qmd"
+
+- icon_name: "bi-book-half"
+  button_name: "Research"
+  link: "./research.qmd"
+
+- icon_name: "bi-easel"
+  button_name: "Education"
+  link: "./education.qmd"
+
+- icon_name: "bi-diagram-3"
+  button_name: "Organizations"
+  link: "./organizations.qmd"
+
+- icon_name: "bi-gear-wide-connected"
+  button_name: "Resources"
+  link: "./resources.qmd"
+
+- icon_name: "bi-newspaper"
+  button_name: "News and Events"
+  link: "./news.qmd"
+
