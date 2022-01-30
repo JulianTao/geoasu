@@ -1,11 +1,8 @@
 ---
 title: Welcome
 subtitle: Geotechnical Engineering Group at Arizona State University
-page-layout: custom
+page-layout: full
 ---
-
-::: {.grid}
-::: {.g-col-8 .g-start-3}
 
 ```{r} 
 source("./tools/carousel.R")
@@ -14,8 +11,6 @@ carousel("homepage-carousel", 5000, yaml.load_file("./data/carousel.yml"))
 
 ```{r} 
 source("./tools/icon_cards.R")
-card_group("./data/card_group.yml")
+card_group("./data/card_group1.yml")
+card_group("./data/card_group2.yml")
 ```
-:::
-:::
-
