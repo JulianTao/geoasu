@@ -34,6 +34,7 @@ format:
     css: assets/styles.css
     linkcolor: $red
     toc: true
+    email-obfuscation: javascript
     include-in-header: 
       - assets/iconfonts.html
 execute:
