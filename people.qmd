@@ -34,17 +34,6 @@ Associate Professor, Deputy Director of CBBG\
 <i class="bi bi-telephone-fill"></i>: 480-727-8514, <i class="bi bi-geo-alt-fill"></i>: GWC 124
 :::
 
-::: {layout="[[30, 70]]"}
-
-![](./img/Leon.jpg)
-
-**[Leon A. van Paassen](https://isearch.asu.edu/profile/3002885)**, Ph.D.\
-Associate Professor\
-**Research:** Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\
-**Teaching:** CEE 351, CEE 494, CEE 598\
-<i class="bi bi-envelope-fill"></i>: <Leon.Vanpaassen@asu.edu>\
-<i class="bi bi-telephone-fill"></i>: 480-965-1075, <i class="bi bi-geo-alt-fill"></i>: GWC 122
-:::
 
 ::: {layout="[[30, 70]]"}
 
@@ -71,19 +60,30 @@ Assistant Professor\
 :::
 
 
-### Research Professors
+::: {layout="[30, 70]"}
 
-::: {layout="[[30, 70]]"}
+![](./img/Emmanuel.jpg) 
 
-![](./img/Nasser.jpg)
-
-**[Nasser Hamdan](https://isearch.asu.edu/profile/9649)**, Ph.D.\
-Assistant Research Professor\
-Director of Industrial Collaboration, CBBG\
-**Research:** Biogeotechnical engineering for ground improvement, Biogeochemical processes, Biopolymers, Mineral precipitation in soils, Geomicrobiology\
-<i class="bi bi-envelope-fill"></i>: <nasser.hamdan@asu.edu>\
-<i class="bi bi-telephone-fill"></i>: 480-965-2277, <i class="bi bi-geo-alt-fill"></i>: GWC 112
+**[Emmanuel Salifu](https://www.emmanuelsalifu.com/)**, Ph.D.\
+Assistant Professor\
+**Research:** land-based engineering, environmental sustainability and soil/water engineering for agriculture and civil infrastructure\
+<i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
+<i class="bi bi-geo-alt-fill"></i>: GWC 128
 :::
+
+::: {layout="[30, 70]"}
+
+![](img/Nariman.png)
+
+**[Nariman Mahabadi](https://search.asu.edu/profile/2444073)**, Ph.D.\
+Assistant Professor\
+**Research:** Bio-geotechnical engineering, flow and transport in porous media, hydro-geomechanics, energy geo-engineering, non-destructive testing and imaging techniques \
+<i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
+<i class="bi bi-geo-alt-fill"></i>: GWC 122
+:::
+
+
+### Research Professors
 
 ::: {layout="[[30, 70]]"}
 
@@ -123,6 +123,19 @@ Lecturer Senior\
 <i class="bi bi-telephone-fill"></i>: 480-965-2893, <i class="bi bi-geo-alt-fill"></i>: CAVC 470
 :::
 
+## Affiliated Faculty 
+
+::: {layout="[[30, 70]]"}
+
+![](./img/Leon.jpg)
+
+**[Leon A. van Paassen](https://isearch.asu.edu/profile/3002885)**, Ph.D.\
+Associate Professor\
+**Research:** Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\
+**Teaching:** CEE 351, CEE 494, CEE 598\
+<i class="bi bi-envelope-fill"></i>: <Leon.Vanpaassen@asu.edu>\
+<i class="bi bi-telephone-fill"></i>: 480-965-1075, <i class="bi bi-geo-alt-fill"></i>: GWC 122
+:::
 
 ### Faculty Emeritus
 
@@ -145,20 +158,9 @@ Professor Emeritus\
 **Research:** Geotechnical Engineering
 :::
 
-## Presidential Postdoctoral Fellow
 
-::: {layout="[30, 70]"}
-
-![](./img/Emmanuel.jpg) 
-
-**[Emmanuel Salifu](https://www.emmanuelsalifu.com/)**, Ph.D.\
-**Research:** land-based engineering, environmental sustainability and soil/water engineering for agriculture and civil infrastructure\
-<i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
-<i class="bi bi-geo-alt-fill"></i>: GWC 128
-:::
-
-## Visiting Scholars
-   * Daehyun Kim 
+<!-- ## Visiting Scholars -->
+<!--    * Daehyun Kim  -->
 
 ## Staff
 
@@ -173,22 +175,13 @@ CBBG Administrative Director\
 
 ::: {layout="[[30, 70]]"}
 
-![](./img/Mary.jpeg)
+![](img/emma.png)
 
-**[Mary Bankhead](https://isearch.asu.edu/profile/1170350)**, M.A., M.S.\
-Project Coordinator/Fiscal Specialist\
-<i class="bi bi-envelope-fill"></i>: <Mary.Bankhead@asu.edu>  
+**[Emma Buchanan]**
+Project Coordinator\
+<i class="bi bi-envelope-fill"></i>: <egbuchan@mainex1.asu.edu>  
 <i class="bi bi-telephone-fill"></i>: (480) 965-2489, <i class="bi bi-geo-alt-fill"></i>: GWC 112
 :::
 
-::: {layout="[[30, 70]]"}
-
-![](./img/sundevil.png)
-
-**Jane Nguyen**\
-Student Worker\
-<i class="bi bi-envelope-fill"></i>: <ntnguy34@asu.edu>  
-<i class="bi bi-geo-alt-fill"></i>: GWC 112
-:::
-## [Roster](roster.qmd)
+<!-- ## [Roster](roster.qmd) -->
 

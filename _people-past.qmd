@@ -1,0 +1,23 @@
+---
+title: People
+execute:
+  warning: false
+  error: false
+  echo: false
+---
+
+## Research Professor
+
+::: {layout="[[30, 70]]"}
+
+![](./img/Nasser.jpg)
+
+**[Nasser Hamdan](https://isearch.asu.edu/profile/9649)**, Ph.D.\
+Assistant Research Professor\
+Director of Industrial Collaboration, CBBG\
+**Research:** Biogeotechnical engineering for ground improvement, Biogeochemical processes, Biopolymers, Mineral precipitation in soils, Geomicrobiology\
+<i class="bi bi-envelope-fill"></i>: <nasser.hamdan@asu.edu>\
+<i class="bi bi-telephone-fill"></i>: 480-965-2277, <i class="bi bi-geo-alt-fill"></i>: GWC 112
+:::
+
+## [Roster](roster.qmd)
