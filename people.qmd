@@ -78,7 +78,7 @@ Assistant Professor\
 **[Nariman Mahabadi](https://search.asu.edu/profile/2444073)**, Ph.D.\
 Assistant Professor\
 **Research:** Bio-geotechnical engineering, flow and transport in porous media, hydro-geomechanics, energy geo-engineering, non-destructive testing and imaging techniques \
-<i class="bi bi-envelope-fill"></i>: <emmanuel.salifu@asu.edu>\
+<i class="bi bi-envelope-fill"></i>: <nmahabad@asu.edu>\
 <i class="bi bi-geo-alt-fill"></i>: GWC 122
 :::
 
