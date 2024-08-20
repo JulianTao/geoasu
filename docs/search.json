@@ -3,8 +3,8 @@
     "objectID": "organizations.html#asu-chapters",
     "href": "organizations.html#asu-chapters",
     "title": "Organizations",
-    "section": "ASU Chapters",
-    "text": "ASU Chapters\n\nASU Geo-Institute Graduate Student Chapter\n\n: Website\n: Instagram: @geo_asu\n\nASU ASCE Student Chapter\n\n: Website\n: Facebook: @ASUASCE\n: Instagram: @asceasu"
+    "section": "",
+    "text": "ASU Geo-Institute Graduate Student Chapter\n\n: Website\n: Instagram: @geo_asu\n\nASU ASCE Student Chapter\n\n: Website\n: Facebook: @ASUASCE\n: Instagram: @asceasu"
   },
   {
     "objectID": "organizations.html#arizona-sections",
@@ -24,8 +24,8 @@
     "objectID": "about.html#the-geotech-group-at-asu",
     "href": "about.html#the-geotech-group-at-asu",
     "title": "About",
-    "section": "The Geotech Group at ASU",
-    "text": "The Geotech Group at ASU\nGeotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure.\n\n\nContact us\n: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281\n: (480) 965-2489"
+    "section": "",
+    "text": "Geotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure.\n\n\n\n: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281\n: (480) 965-2489"
   },
   {
     "objectID": "about.html#the-site",
@@ -38,8 +38,8 @@
     "objectID": "education.html#course-catalog",
     "href": "education.html#course-catalog",
     "title": "Education and Outreach",
-    "section": "Course Catalog",
-    "text": "Course Catalog\n\nCEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
+    "section": "",
+    "text": "CEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
   },
   {
     "objectID": "education.html#education-and-outreach-resources-shared-with-cbbg",
@@ -116,21 +116,21 @@
     "href": "news.html#news",
     "title": "News and Events",
     "section": "News",
-    "text": "News\n<++>"
+    "text": "News\n&lt;++&gt;"
   },
   {
     "objectID": "news.html#events",
     "href": "news.html#events",
     "title": "News and Events",
     "section": "Events",
-    "text": "Events\n<++>"
+    "text": "Events\n&lt;++&gt;"
   },
   {
     "objectID": "research.html#bio-mediated-geotechnics",
     "href": "research.html#bio-mediated-geotechnics",
     "title": "Research",
-    "section": "Bio-mediated Geotechnics",
-    "text": "Bio-mediated Geotechnics\n<++>"
+    "section": "",
+    "text": "&lt;++&gt;"
   },
   {
     "objectID": "research.html#bio-inspired-geotechnics",
@@ -144,7 +144,7 @@
     "href": "research.html#earthquake-engineering",
     "title": "Research",
     "section": "Earthquake Engineering",
-    "text": "Earthquake Engineering\n<++>"
+    "text": "Earthquake Engineering\n&lt;++&gt;"
   },
   {
     "objectID": "research.html#engineering-education",
@@ -158,21 +158,21 @@
     "href": "research.html#geo-environmental-engineering",
     "title": "Research",
     "section": "Geo-environmental Engineering",
-    "text": "Geo-environmental Engineering\n<++>"
+    "text": "Geo-environmental Engineering\n&lt;++&gt;"
   },
   {
     "objectID": "research.html#unsaturated-soil-mechanics",
     "href": "research.html#unsaturated-soil-mechanics",
     "title": "Research",
     "section": "Unsaturated Soil Mechanics",
-    "text": "Unsaturated Soil Mechanics\n<++>"
+    "text": "Unsaturated Soil Mechanics\n&lt;++&gt;"
   },
   {
     "objectID": "research.html#anything-else-here",
     "href": "research.html#anything-else-here",
     "title": "Research",
     "section": "Anything else here?",
-    "text": "Anything else here?\n<++>"
+    "text": "Anything else here?\n&lt;++&gt;"
   },
   {
     "objectID": "people.html#faculty",
@@ -229,5 +229,33 @@
     "title": "People",
     "section": "Affiliated Faculty",
     "text": "Affiliated Faculty\n\n\n\n\n\n\n\n\n\nLeon A. van Paassen, Ph.D.\nAssociate Professor\nResearch: Engineering geology, geotechnical and geo-environmental engineering, environmental biotechnology, soil mechanics, ground improvement\nTeaching: CEE 351, CEE 494, CEE 598\n: Leon.Vanpaassen at asu dot edu\n: 480-965-1075, : GWC 122\n\n\n\n\nFaculty Emeritus\n\n\n\n\n\n\n\n\n\nSandra Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Unsaturated soils, expansive and collapsible soils, arid region soils, foundations, modeling of unsaturated flow/deformation\n: SANDRA.HOUSTON@asu.edu\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam (Bill) Houston, Ph.D., P.E.\nProfessor Emeritus\nResearch: Geotechnical Engineering"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "&lt;++&gt;"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Outreach",
+    "section": "",
+    "text": "CEE 351 Geotechnical Engineering\nCEE 452/598 Foundations\nCEE 550 Soil Behavior\nCEE 551 Advanced Geotechnical Testing\nCEE 552 Soil Improvement\nCEE 553 Advanced Soil Mechanics\nCEE 554 Shear Strength and Slop Stability\nCEE 555 Advanced Foundations\nCEE 556 Seepage and Earth Dams\nCEE 557 Landfill and Waste Containment System Design\nCEE 558 Unsaturated Soil Mechanics\nCEE 559 Geotechnical Earthquake Engineering\nCEE 598 Geotechnical Aspects of Pavements\nCEE 598 Biogeotechnical Engineering\nCEE 598 Connecting Research to the Broader Community\nCEE 494/598 Bio-inspired Design\nCEE 494/598 Engineering Geology\nCEE 494/598 Earth Structures (from non-geotech majors)"
+  },
+  {
+    "objectID": "organizations.html",
+    "href": "organizations.html",
+    "title": "Organizations",
+    "section": "",
+    "text": "ASU Geo-Institute Graduate Student Chapter\n\n: Website\n: Instagram: @geo_asu\n\nASU ASCE Student Chapter\n\n: Website\n: Facebook: @ASUASCE\n: Instagram: @asceasu"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Geotechnical and geoenvironmental engineering at ASU is focused upon unsaturated soil mechanics, biogetechnics, waste mechanics, and geotechnical earthquake engineering.\n\nASU is a leader in unsaturated soil mechanics applied to the performance of pavement subgrades and the impact of expansive soil upon foundations. ASU’s unsaturated soil mechanics laboratory is one of the finest in the world and has been responsible for many innovations in unsaturated soil testing.\nASU is also a leader in the emerging field of biogeotechnics, including bio-mediated geotechnics and bio-inspired geotechnics. ASU is the headquarter of the Center for bio-mediated and bio-inspired Geotechnics (CBBG), a National Science Foundation Engineering Research Center since 2015. Three other partner universities include University of California, Davis, Georgia Institute of Technology, New Mexico State University. Under the leadership of ASU, the CBBG unites four partner Universities who are committed to a common goal of sustainable infrastructure development and rehabilitation and have strong ties to industrial partners and international collaborators. Visit CBBG website to learn more.\nASU’s Enamul and Mahmuda Hoque laboratory has unique, large scale equipment for static and dynamic testing of waste materials. Research on the seismic design of geosynthetic lined landfills being conducted at ASU combines our strengths in waste properties and seismic analysis and design.\nThe work of the Geotechnical and geoenvironmental engineering group at ASU on mitigation of geologic hazards (expansive soils, earthquake engineering) and environmental protection and remediation (landfill engineering) has many synergies with the School of Sustainable Engineering for the Built Environment and ASU’s emphasis on resilient and sustainable infrastructure.\n\n\n\n: Goldwater Center for Science and Engineering, 650 E Tyler Mall, Tempe, AZ 85281\n: (480) 965-2489"
   }
 ]
